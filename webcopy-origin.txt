@@ -1,0 +1,28 @@
+Uri: https://verxaviator.ru/
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxaviator.ru\index.htm
+Content Type: text/html
+
+Uri: https://verxaviator.ru/assets/icons/error-exit.svg
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxaviator.ru\assets\icons\error-exit.svg
+Content Type: image/svg+xml
+
+Uri: https://verxaviator.ru/assets/icons/error.svg
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxaviator.ru\assets\icons\error.svg
+Content Type: image/svg+xml
+
+Uri: https://verxaviator.ru/assets/icons/logo.svg
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxaviator.ru\assets\icons\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://verxaviator.ru/assets/icons/plane.svg
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxaviator.ru\assets\icons\plane.svg
+Content Type: image/svg+xml
+
+Uri: https://verxaviator.ru/main.js
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxaviator.ru\main.js
+Content Type: application/javascript
+
+Uri: https://verxaviator.ru/style.css
+File Name: C:\Users\Użytkownik\Desktop\верстка\verxaviator.ru\style.css
+Content Type: text/css
+
